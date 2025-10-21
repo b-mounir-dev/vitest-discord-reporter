@@ -1,6 +1,6 @@
 {
   "name": "@bouaiche/vitest-discord-reporter",
-  "version": "0.1.1",
+  "version": "1.0.1",
   "description": "A Vitest reporter that sends test results to a Discord channel via embeds",
   "keywords": [
     "vitest",
